@@ -8,7 +8,7 @@ import { auth, googleProvider } from "./firebase";
 import { useState, useEffect } from "react";
 import "./App.css";
 
-const API_URL = "http://localhost:5000/api/leads";
+const API_URL = "https://lead-manager-5b74.onrender.com";
 
 function App() {
   const [leads, setLeads] = useState([]);
