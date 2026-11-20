@@ -1,6 +1,6 @@
 # 🚀 Lead Manager — Full-Stack Lead Management System
 <p align="center">
-  <img src="screenshots/dashboard.png" width="90%" alt="Lead Manager Dashboard" />
+  <img src="screenshots/loginpage.png" width="90%" alt="Lead Manager Dashboard" />
 </p>
 <p align="center">
   **A simple, secure and modern CRM application to manage leads efficiently.**
