@@ -1,4 +1,7 @@
 # 🚀 Lead Manager — Full-Stack Lead Management System
+## 🌐 Live Demo
+
+[Click here to view Lead Manager](https://lead-manager-frontend-tan.vercel.app/)
 <p align="center">
   <img src="screenshots/loginpage.png" width="90%" alt="Lead Manager Dashboard" />
 </p>
